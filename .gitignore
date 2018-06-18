@@ -26,3 +26,5 @@ Thumbs.db
 ############# Python ###############
 ####################################
 *.py[cod]
+.ipynb_checkpoints
+.ipynb_checkpoints？
